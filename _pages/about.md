@@ -20,12 +20,21 @@ Interests
 
 Education Experiences
 ======
-+ M.Sc.Eng. in Cyber Security, Sep.2022-Noew
++ M.Sc.Eng. in Cyber Security. Sep,2022-Present
   + School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China
   + Institute of Information Engineering,Chinese Academy of Sciences
   + Key Laboratory of Cyberspace Security Defense
 + Gap Year. June-2021-Sep.2022. (Preparing for postgraduate exams)
 + B.Eng. in Software Engineering (Henan University of Engineering),
+
+
+Working Experiences
+======
++ Tnternship in Tsinghua University. March.2024-May.2024.
+  + Advised by Jing Li, Remote
++ Tnternship in an education company. Oct.2023-May.2024.
++ Co-founder, Forum of University of Chinese Academy of Sciences. Dec.2022-Sep.2022.
+
 
 
 [Contact me]: [Academic Email](liqi2022@iie.ac.cn) / [OpenReview](https://openreview.net/profile?id=~Qi_Li38)
