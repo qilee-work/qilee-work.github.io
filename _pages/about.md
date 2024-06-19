@@ -20,20 +20,21 @@ Interests
 
 Education Experiences
 ======
-+ M.Sc.Eng. in Cyber Security. Sep,2022-Present
++ M.Sc.Eng. in Cyber Security. _Sep,2022-Present_
   + School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China
   + Institute of Information Engineering,Chinese Academy of Sciences
   + Key Laboratory of Cyberspace Security Defense
-+ Gap Year. June-2021-Sep.2022. (Preparing for postgraduate exams)
-+ B.Eng. in Software Engineering (Henan University of Engineering),
++ Gap Year. _Sep.2022.-June-2021_ (Preparing for postgraduate exams)
++ B.Eng. in Software Engineering (Henan University of Engineering).  _June-2021-Sep.2017._
 
 
 Working Experiences
 ======
-+ Tnternship in Tsinghua University. March.2024-May.2024.
++ Instructor for Graduate Admission Prep. _March.2023-Present._
++ Internship in Tsinghua University. _March.2024-May.2024._
   + Advised by Jing Li, Remote
-+ Tnternship in an education company. Oct.2023-May.2024.
-+ Co-founder, Forum of University of Chinese Academy of Sciences. Dec.2022-Sep.2022.
++ Tnternship in an education company. _Oct.2023-May.2024._
++ Co-founder, Forum of University of Chinese Academy of Sciences. _Dec.2022-Sep.2022._
 
 
 
