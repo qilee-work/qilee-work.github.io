@@ -7,13 +7,28 @@ redirect_from:
   - /about.html
 ---
 
+Who Am I?
+======
 
-I am a PHD from the Institute of Information Engineering of the Chinese Academy of Sciences. My research direction is federated learning, which is a distributed machine learning algorithm. The goal of federated learning is how a trusted central server can coordinate multiple clients to collaboratively train a model without leaking privacy.
+Greeting, everyone! I'm Li Qi, a native of Henan province, China, born in 05/04/1999. And I am a amateur full-stack programmer, currently pursuing a master's degree in Cybersecurity at the University of Chinese Academy of Sciences (UCAS), with a focus on AI security.  As of May 29, 2024, I have transitioned to a doctoral program, where my research will focus on the privacy and security of large language models. Prior to this, I completed my undergraduate degree in Software Engineering at Henan University of Engineering.
 
-In the past two  years, My work focused on how to improve the performance of the global model in non-i.i.d setting. Now, I am conducting research on differential privacy, with the goal of improving the model security capabilities of federated learning.
+This blog will serve as an informal record of my academic and engineering experiences, as well as various aspects of my personal life. I welcome fellow enthusiasts from around the world to join me in exchanging ideas and insights.
+
+Interests
+======
++ Federate Learning
++ Differential Privacy
++ Large Language Model
 
 
-
+Education Experiences
+======
++ M.Sc.Eng. in Cyber Security, Sep.2022-Noew
+  + School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China
+  + Institute of Information Engineering,Chinese Academy of Sciences
+  + Key Laboratory of Cyberspace Security Defense
++ Gap Year. June-2021-Sep.2022. (Preparing for postgraduate exams)
++ B.Eng. in Software Engineering (Henan University of Engineering),
 
 
 [Contact me]: [Academic Email](liqi2022@iie.ac.cn) / [OpenReview](https://openreview.net/profile?id=~Qi_Li38)
