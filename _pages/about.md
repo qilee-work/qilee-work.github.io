@@ -14,9 +14,8 @@ In the past two  years, My work focused on how to improve the performance of the
 
 
 
-; A data-driven personal website
-; ======
 
-[Academic Email](liqi2022@iie.ac.cn) / [OpenReview](https://openreview.net/profile?id=~Qi_Li38)
+
+[Contact me]: [Academic Email](liqi2022@iie.ac.cn) / [OpenReview](https://openreview.net/profile?id=~Qi_Li38)
 
 
