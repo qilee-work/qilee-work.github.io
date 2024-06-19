@@ -7,28 +7,28 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Hogwarts School of Witchcraft and Wizardry"
+title                    : "Qi Lee / Personal HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qi Lee"
+description              : &description "A curious and honest academic trash can"
+url                      : https://qilee-work.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "qilee-work/qilee-work.github.ioo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "self.png"
+  name             : "Qi Lee"
+  pronouns         : He
+  bio              : "A curious and honest academic trash can"
+  location         : "Hogwarts School of Witchcraft and Wizardry"
+  employer         : "The institute of information engineering"
+  uri              : 
+  email            : "qilee.work@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
