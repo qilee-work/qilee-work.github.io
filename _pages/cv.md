@@ -43,8 +43,7 @@ Skills
 
 Publications
 ======
-  Conference
-  ======
+## Conference
   + Tackling Feature Skew in Heterogeneous Federated Learning with Semantic Enhancement.
      _**Qi Li**,Yucan Zhou*,Jiang Zhou,XiaoYan Gu1,Bo Li_
     ICME 2024(CCFB)
