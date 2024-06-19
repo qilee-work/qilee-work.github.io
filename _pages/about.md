@@ -13,7 +13,7 @@ This blog will serve as an informal record of my academic and engineering experi
 
 Interests
 ======
-+ Federate Learning
++ Federated Learning
 + Differential Privacy
 + Large Language Model
 
