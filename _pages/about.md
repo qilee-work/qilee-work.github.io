@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Who Am I?
-======
-
 Greeting, everyone! I'm Li Qi, a native of Henan province, China, born in 05/04/1999. And I am a amateur full-stack programmer, currently pursuing a master's degree in Cybersecurity at the University of Chinese Academy of Sciences (UCAS), with a focus on AI security.  As of May 29, 2024, I have transitioned to a doctoral program, where my research will focus on the privacy and security of large language models. Prior to this, I completed my undergraduate degree in Software Engineering at Henan University of Engineering.
 
 This blog will serve as an informal record of my academic and engineering experiences, as well as various aspects of my personal life. I welcome fellow enthusiasts from around the world to join me in exchanging ideas and insights.
